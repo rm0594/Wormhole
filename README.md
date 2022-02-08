@@ -34,7 +34,7 @@ All web/app bug reports must come with a Proof of Concept in order to be conside
 
 | **Smart Contracts**  |               |
 | ------------- | ------------- |
-| Critical  | Up to $USD 3,500,000  |
+| Critical  | Up to USD $3,500,000  |
 | High      | USD $100,000  |
 | Medium    | USD $10,000  |
 | Low       | USD $2,500  |
@@ -44,7 +44,7 @@ All web/app bug reports must come with a Proof of Concept in order to be conside
 
 | **Guardian Nodes (Blockchain/DLT)** |               | 
 | ------------- | ------------- |
-| Critical  | Up to $USD 3,500,000  |
+| Critical  | Up to USD $3,500,000  |
 | High      | USD $100,000  |
 | Medium    | USD $5,000  |
 | Low       | USD $2,000  |
@@ -54,7 +54,7 @@ All web/app bug reports must come with a Proof of Concept in order to be conside
 
 | **Websites and Applications**  |               |
 | ------------- | ------------- |
-| Critical  | Up to $USD 50,000  |
+| Critical  | Up to USD $50,000  |
 | High      | USD $10,000  |
 | Medium    | USD $5,000  |
 | Low       | USD $1,000  |
@@ -62,4 +62,4 @@ All web/app bug reports must come with a Proof of Concept in order to be conside
 
 
 
-Payouts are handled by the Terraform Labs Ltd team directly and are denominated in **USD**; however, payouts will be made in **USDC**.
+Payouts are handled by the Terraform Labs Ltd team directly and are denominated in **USD**; however, payouts will be made in **USDC**. Further information about TFL can be found here: https://www.terra.money/
