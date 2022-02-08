@@ -27,7 +27,7 @@ All web/app bug reports must come with a Proof of Concept in order to be conside
 
 
 
-Further detail can be found here: https://www.immunefi.com/bounty/wormhole
+**Further detail can be found here**: https://www.immunefi.com/bounty/wormhole
 
 
 
